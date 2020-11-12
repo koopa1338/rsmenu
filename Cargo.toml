@@ -1,0 +1,10 @@
+[package]
+name = "rsmenu"
+version = "0.0.1"
+authors = ["koopa1338 <sinner1991@gmail.com>"]
+edition = "2018"
+description = "A rofi/dmenu alternative with fuzzy find."
+
+[dependencies]
+fuzzy-matcher = "0.3.7"
+iced = "0.1.1"
